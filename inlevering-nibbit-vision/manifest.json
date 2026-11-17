@@ -1,0 +1,26 @@
+{
+  "git_commit": "07cd67d821f062cd8b6619f1a353fe0007d639cd",
+  "model_checks": {
+    "runs/bright-overlap-01/best.pt": "9a77ec724caeb6261a552d314ae45f14c335f33d4b74786195b724a017e6e4a8",
+    "runs/pilot-synthetic-01/best.pt": "ae619ac3b99f775192d4494a5c95cccedae6cddb42dded4f6c341689bba47b89",
+    "data/bright-training-v1/annotations.json": "5678478fbe624a63fe5731ac3e4d5e6e0303c1666840c3ea4796aa8c66532efd"
+  },
+  "artifacts": {
+    "nibbit-vision-code.zip": {
+      "bytes": 13171453,
+      "sha256": "a64fb52bb79c5bf719369e7e4b511c1433aedfa0a2e56fde4bc7ffe3fd92941d"
+    },
+    "nibbit-vision-dataset.zip": {
+      "bytes": 369191123,
+      "sha256": "ec6390580792383179e47c986c08d2387a0f71154d1284873fffaad4bff93786"
+    },
+    "nibbit-vision-weights.zip": {
+      "bytes": 327424650,
+      "sha256": "6f38948a2fd712c9b55530c8d5276f907894b4238b452cde262c446e9a074876"
+    },
+    "nibbit-vision.git.bundle": {
+      "bytes": 10736617,
+      "sha256": "d82eb8dc2fa27e80522c3a6a58e94fa6414f88eb03f38a0effe13533c587a02b"
+    }
+  }
+}
